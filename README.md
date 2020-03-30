@@ -1,7 +1,7 @@
 # mini_amazon(books)
 #### Language: C#
 ####  Database: MySQL
-#### IDE tool: Visual Studio
+#### IDE tool: Visual Studio Code
 #### Version Control: Git
 ####  Introduction
 - Inventory Management
